@@ -1,0 +1,58 @@
+{
+  "date": "2026-11-07",
+  "conditions": "Local Windows host, headless Chrome. Mobile viewport is emulation, not a physical phone or mobile GPU.",
+  "profiles": [
+    {
+      "profile": {
+        "name": "Desktop",
+        "width": 1440,
+        "height": 1000,
+        "scale": 1,
+        "throttle": false
+      },
+      "lcp": 220,
+      "cls": 0.001383154899691358,
+      "transferBytes": 646982,
+      "rendering": {
+        "sampleMs": 2500,
+        "frames": 151,
+        "averageFPS": 60.01112789126461,
+        "p95FrameMs": 16.800000000000182,
+        "drawCalls": 6,
+        "triangles": 278,
+        "pixelRatio": 1,
+        "memoryCounts": {
+          "geometries": 4,
+          "textures": 3
+        }
+      },
+      "transferAfterFilmBytes": 1792867
+    },
+    {
+      "profile": {
+        "name": "Mobile / simulated constrained CPU and network",
+        "width": 390,
+        "height": 844,
+        "scale": 2,
+        "throttle": true
+      },
+      "lcp": 1644,
+      "cls": 0.003605568554798974,
+      "transferBytes": 656192,
+      "rendering": {
+        "sampleMs": 2500,
+        "frames": 151,
+        "averageFPS": 60.01112789126463,
+        "p95FrameMs": 16.799999999999272,
+        "drawCalls": 6,
+        "triangles": 278,
+        "pixelRatio": 1.5,
+        "memoryCounts": {
+          "geometries": 4,
+          "textures": 3
+        }
+      },
+      "transferAfterFilmBytes": 1760595
+    }
+  ]
+}

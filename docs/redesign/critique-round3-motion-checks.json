@@ -1,0 +1,38 @@
+{
+  "mobile": {
+    "parent": "story-mount is-live",
+    "active": [
+      "false",
+      "false",
+      "true"
+    ],
+    "canvas": 1
+  },
+  "reduced": {
+    "pressed": "true",
+    "image": "assets/images/sculpture-registration.webp"
+  },
+  "transition": [
+    {
+      "scale": 0.014577259475218596,
+      "visible": true
+    },
+    {
+      "scale": 0.002402332361515991,
+      "visible": true
+    },
+    {
+      "scale": 0.001,
+      "visible": false
+    },
+    {
+      "scale": 0.001,
+      "visible": false
+    },
+    {
+      "scale": 0.001,
+      "visible": false
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,58 @@
+{
+  "timestamp": "2026-11-06T16:32:36.475Z",
+  "pagesTested": 9,
+  "viewportsTested": 5,
+  "screenshotsCaptured": [
+    "index-desktop-1440.png",
+    "index-tablet-768.png",
+    "index-mobile-390.png",
+    "how-it-works-desktop-1440.png",
+    "how-it-works-tablet-768.png",
+    "how-it-works-mobile-390.png",
+    "business-registration-desktop-1440.png",
+    "business-registration-tablet-768.png",
+    "business-registration-mobile-390.png",
+    "managed-compliance-desktop-1440.png",
+    "managed-compliance-tablet-768.png",
+    "managed-compliance-mobile-390.png",
+    "pricing-desktop-1440.png",
+    "pricing-tablet-768.png",
+    "pricing-mobile-390.png",
+    "about-desktop-1440.png",
+    "about-tablet-768.png",
+    "about-mobile-390.png",
+    "resources-desktop-1440.png",
+    "resources-tablet-768.png",
+    "resources-mobile-390.png",
+    "faq-desktop-1440.png",
+    "faq-tablet-768.png",
+    "faq-mobile-390.png",
+    "contact-desktop-1440.png",
+    "contact-tablet-768.png",
+    "contact-mobile-390.png"
+  ],
+  "functionalTests": [
+    {
+      "test": "Homepage Workflow Tab Switcher",
+      "status": "PASSED"
+    },
+    {
+      "test": "Structure Diagnostic Calculator (SARL update)",
+      "status": "PASSED"
+    },
+    {
+      "test": "FAQ Accordion Toggle Expansion",
+      "status": "PASSED"
+    },
+    {
+      "test": "Contact Intake Form Validation & Feedback",
+      "status": "PASSED"
+    },
+    {
+      "test": "Mobile Drawer Menu Open & Escape Close",
+      "status": "PASSED"
+    }
+  ],
+  "consoleErrors": [],
+  "overflowIssues": []
+}

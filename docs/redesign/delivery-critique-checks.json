@@ -1,0 +1,51 @@
+{
+  "views": [
+    {
+      "page": "index",
+      "width": 1440,
+      "overflow": false,
+      "h1": "You build.\nWe bring\nstructure.",
+      "search": null
+    },
+    {
+      "page": "resources",
+      "width": 1440,
+      "overflow": false,
+      "h1": "Clarity,\nworth keeping.",
+      "search": 515.21875
+    },
+    {
+      "page": "faq",
+      "width": 1440,
+      "overflow": false,
+      "h1": "Let’s make\nthings clearer.",
+      "search": 541.109375
+    },
+    {
+      "page": "index",
+      "width": 390,
+      "overflow": false,
+      "h1": "You build.\nWe bring\nstructure.",
+      "search": null
+    },
+    {
+      "page": "resources",
+      "width": 390,
+      "overflow": false,
+      "h1": "Clarity,\nworth keeping.",
+      "search": 393.046875
+    },
+    {
+      "page": "faq",
+      "width": 390,
+      "overflow": false,
+      "h1": "Let’s make\nthings clearer.",
+      "search": 393.046875
+    }
+  ],
+  "video": {
+    "playing": true,
+    "paused": true
+  },
+  "errors": []
+}

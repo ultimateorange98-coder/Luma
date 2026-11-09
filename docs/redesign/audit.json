@@ -1,0 +1,717 @@
+{
+  "date": "2026-11-07",
+  "layout": [
+    {
+      "page": "index",
+      "width": 1440,
+      "overflow": 0,
+      "h1": 1,
+      "main": 1,
+      "canvas": 0,
+      "brokenImages": [],
+      "pass": true
+    },
+    {
+      "page": "how-it-works",
+      "width": 1440,
+      "overflow": 0,
+      "h1": 1,
+      "main": 1,
+      "canvas": 0,
+      "brokenImages": [],
+      "pass": true
+    },
+    {
+      "page": "business-registration",
+      "width": 1440,
+      "overflow": 0,
+      "h1": 1,
+      "main": 1,
+      "canvas": 0,
+      "brokenImages": [],
+      "pass": true
+    },
+    {
+      "page": "managed-compliance",
+      "width": 1440,
+      "overflow": 0,
+      "h1": 1,
+      "main": 1,
+      "canvas": 0,
+      "brokenImages": [],
+      "pass": true
+    },
+    {
+      "page": "pricing",
+      "width": 1440,
+      "overflow": 0,
+      "h1": 1,
+      "main": 1,
+      "canvas": 0,
+      "brokenImages": [],
+      "pass": true
+    },
+    {
+      "page": "about",
+      "width": 1440,
+      "overflow": 0,
+      "h1": 1,
+      "main": 1,
+      "canvas": 0,
+      "brokenImages": [],
+      "pass": true
+    },
+    {
+      "page": "resources",
+      "width": 1440,
+      "overflow": 0,
+      "h1": 1,
+      "main": 1,
+      "canvas": 0,
+      "brokenImages": [],
+      "pass": true
+    },
+    {
+      "page": "faq",
+      "width": 1440,
+      "overflow": 0,
+      "h1": 1,
+      "main": 1,
+      "canvas": 0,
+      "brokenImages": [],
+      "pass": true
+    },
+    {
+      "page": "contact",
+      "width": 1440,
+      "overflow": 0,
+      "h1": 1,
+      "main": 1,
+      "canvas": 0,
+      "brokenImages": [],
+      "pass": true
+    },
+    {
+      "page": "index",
+      "width": 1280,
+      "overflow": 0,
+      "h1": 1,
+      "main": 1,
+      "canvas": 0,
+      "brokenImages": [],
+      "pass": true
+    },
+    {
+      "page": "how-it-works",
+      "width": 1280,
+      "overflow": 0,
+      "h1": 1,
+      "main": 1,
+      "canvas": 0,
+      "brokenImages": [],
+      "pass": true
+    },
+    {
+      "page": "business-registration",
+      "width": 1280,
+      "overflow": 0,
+      "h1": 1,
+      "main": 1,
+      "canvas": 0,
+      "brokenImages": [],
+      "pass": true
+    },
+    {
+      "page": "managed-compliance",
+      "width": 1280,
+      "overflow": 0,
+      "h1": 1,
+      "main": 1,
+      "canvas": 0,
+      "brokenImages": [],
+      "pass": true
+    },
+    {
+      "page": "pricing",
+      "width": 1280,
+      "overflow": 0,
+      "h1": 1,
+      "main": 1,
+      "canvas": 0,
+      "brokenImages": [],
+      "pass": true
+    },
+    {
+      "page": "about",
+      "width": 1280,
+      "overflow": 0,
+      "h1": 1,
+      "main": 1,
+      "canvas": 0,
+      "brokenImages": [],
+      "pass": true
+    },
+    {
+      "page": "resources",
+      "width": 1280,
+      "overflow": 0,
+      "h1": 1,
+      "main": 1,
+      "canvas": 0,
+      "brokenImages": [],
+      "pass": true
+    },
+    {
+      "page": "faq",
+      "width": 1280,
+      "overflow": 0,
+      "h1": 1,
+      "main": 1,
+      "canvas": 0,
+      "brokenImages": [],
+      "pass": true
+    },
+    {
+      "page": "contact",
+      "width": 1280,
+      "overflow": 0,
+      "h1": 1,
+      "main": 1,
+      "canvas": 0,
+      "brokenImages": [],
+      "pass": true
+    },
+    {
+      "page": "index",
+      "width": 768,
+      "overflow": 0,
+      "h1": 1,
+      "main": 1,
+      "canvas": 0,
+      "brokenImages": [],
+      "pass": true
+    },
+    {
+      "page": "how-it-works",
+      "width": 768,
+      "overflow": 0,
+      "h1": 1,
+      "main": 1,
+      "canvas": 0,
+      "brokenImages": [],
+      "pass": true
+    },
+    {
+      "page": "business-registration",
+      "width": 768,
+      "overflow": 0,
+      "h1": 1,
+      "main": 1,
+      "canvas": 0,
+      "brokenImages": [],
+      "pass": true
+    },
+    {
+      "page": "managed-compliance",
+      "width": 768,
+      "overflow": 0,
+      "h1": 1,
+      "main": 1,
+      "canvas": 0,
+      "brokenImages": [],
+      "pass": true
+    },
+    {
+      "page": "pricing",
+      "width": 768,
+      "overflow": 0,
+      "h1": 1,
+      "main": 1,
+      "canvas": 0,
+      "brokenImages": [],
+      "pass": true
+    },
+    {
+      "page": "about",
+      "width": 768,
+      "overflow": 0,
+      "h1": 1,
+      "main": 1,
+      "canvas": 0,
+      "brokenImages": [],
+      "pass": true
+    },
+    {
+      "page": "resources",
+      "width": 768,
+      "overflow": 0,
+      "h1": 1,
+      "main": 1,
+      "canvas": 0,
+      "brokenImages": [],
+      "pass": true
+    },
+    {
+      "page": "faq",
+      "width": 768,
+      "overflow": 0,
+      "h1": 1,
+      "main": 1,
+      "canvas": 0,
+      "brokenImages": [],
+      "pass": true
+    },
+    {
+      "page": "contact",
+      "width": 768,
+      "overflow": 0,
+      "h1": 1,
+      "main": 1,
+      "canvas": 0,
+      "brokenImages": [],
+      "pass": true
+    },
+    {
+      "page": "index",
+      "width": 390,
+      "overflow": 0,
+      "h1": 1,
+      "main": 1,
+      "canvas": 0,
+      "brokenImages": [],
+      "pass": true
+    },
+    {
+      "page": "how-it-works",
+      "width": 390,
+      "overflow": 0,
+      "h1": 1,
+      "main": 1,
+      "canvas": 0,
+      "brokenImages": [],
+      "pass": true
+    },
+    {
+      "page": "business-registration",
+      "width": 390,
+      "overflow": 0,
+      "h1": 1,
+      "main": 1,
+      "canvas": 0,
+      "brokenImages": [],
+      "pass": true
+    },
+    {
+      "page": "managed-compliance",
+      "width": 390,
+      "overflow": 0,
+      "h1": 1,
+      "main": 1,
+      "canvas": 0,
+      "brokenImages": [],
+      "pass": true
+    },
+    {
+      "page": "pricing",
+      "width": 390,
+      "overflow": 0,
+      "h1": 1,
+      "main": 1,
+      "canvas": 0,
+      "brokenImages": [],
+      "pass": true
+    },
+    {
+      "page": "about",
+      "width": 390,
+      "overflow": 0,
+      "h1": 1,
+      "main": 1,
+      "canvas": 0,
+      "brokenImages": [],
+      "pass": true
+    },
+    {
+      "page": "resources",
+      "width": 390,
+      "overflow": 0,
+      "h1": 1,
+      "main": 1,
+      "canvas": 0,
+      "brokenImages": [],
+      "pass": true
+    },
+    {
+      "page": "faq",
+      "width": 390,
+      "overflow": 0,
+      "h1": 1,
+      "main": 1,
+      "canvas": 0,
+      "brokenImages": [],
+      "pass": true
+    },
+    {
+      "page": "contact",
+      "width": 390,
+      "overflow": 0,
+      "h1": 1,
+      "main": 1,
+      "canvas": 0,
+      "brokenImages": [],
+      "pass": true
+    },
+    {
+      "page": "index",
+      "width": 375,
+      "overflow": 0,
+      "h1": 1,
+      "main": 1,
+      "canvas": 0,
+      "brokenImages": [],
+      "pass": true
+    },
+    {
+      "page": "how-it-works",
+      "width": 375,
+      "overflow": 0,
+      "h1": 1,
+      "main": 1,
+      "canvas": 0,
+      "brokenImages": [],
+      "pass": true
+    },
+    {
+      "page": "business-registration",
+      "width": 375,
+      "overflow": 0,
+      "h1": 1,
+      "main": 1,
+      "canvas": 0,
+      "brokenImages": [],
+      "pass": true
+    },
+    {
+      "page": "managed-compliance",
+      "width": 375,
+      "overflow": 0,
+      "h1": 1,
+      "main": 1,
+      "canvas": 0,
+      "brokenImages": [],
+      "pass": true
+    },
+    {
+      "page": "pricing",
+      "width": 375,
+      "overflow": 0,
+      "h1": 1,
+      "main": 1,
+      "canvas": 0,
+      "brokenImages": [],
+      "pass": true
+    },
+    {
+      "page": "about",
+      "width": 375,
+      "overflow": 0,
+      "h1": 1,
+      "main": 1,
+      "canvas": 0,
+      "brokenImages": [],
+      "pass": true
+    },
+    {
+      "page": "resources",
+      "width": 375,
+      "overflow": 0,
+      "h1": 1,
+      "main": 1,
+      "canvas": 0,
+      "brokenImages": [],
+      "pass": true
+    },
+    {
+      "page": "faq",
+      "width": 375,
+      "overflow": 0,
+      "h1": 1,
+      "main": 1,
+      "canvas": 0,
+      "brokenImages": [],
+      "pass": true
+    },
+    {
+      "page": "contact",
+      "width": 375,
+      "overflow": 0,
+      "h1": 1,
+      "main": 1,
+      "canvas": 0,
+      "brokenImages": [],
+      "pass": true
+    }
+  ],
+  "accessibility": [
+    {
+      "page": "index",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "page": "how-it-works",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "page": "business-registration",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "page": "managed-compliance",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "page": "pricing",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "page": "about",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "page": "resources",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "page": "faq",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "page": "contact",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "page": "index",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "page": "how-it-works",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "page": "business-registration",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "page": "managed-compliance",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "page": "pricing",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "page": "about",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "page": "resources",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "page": "faq",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "page": "contact",
+      "width": 390,
+      "violations": []
+    }
+  ],
+  "interactions": [
+    {
+      "name": "Services dropdown supports Escape",
+      "pass": true
+    },
+    {
+      "name": "Mobile navigation focus loop and dismissal",
+      "pass": true
+    },
+    {
+      "name": "Structure diagnostic responds to ownership and route",
+      "pass": true
+    },
+    {
+      "name": "Journey tabs work with keyboard",
+      "pass": true
+    },
+    {
+      "name": "Calendar annual and monthly views",
+      "pass": true
+    },
+    {
+      "name": "Pricing planning switch communicates actual scope",
+      "pass": true
+    },
+    {
+      "name": "Resource category, search, no results and real guide modal",
+      "pass": true
+    },
+    {
+      "name": "FAQ search and native answer expansion",
+      "pass": true
+    },
+    {
+      "name": "Enquiry validates, retains data and downloads without sending",
+      "pass": true
+    },
+    {
+      "name": "All local links and media reference real files/anchors",
+      "pass": true
+    },
+    {
+      "name": "No-JavaScript fallback preserves content and prevents false submission",
+      "pass": true
+    },
+    {
+      "name": "WebGL enhances and pointer interaction changes the sculpture",
+      "pass": true
+    },
+    {
+      "name": "Signature chapter reuses one renderer and unfolds into two services",
+      "pass": true
+    },
+    {
+      "name": "Reduced-motion switching restores static content",
+      "pass": true
+    },
+    {
+      "name": "History navigation restores a usable scene",
+      "pass": true
+    },
+    {
+      "name": "WebGL context loss restores poster",
+      "pass": true
+    }
+  ],
+  "motion": {
+    "story": {
+      "children": [
+        {
+          "visible": false,
+          "scale": 0.001
+        },
+        {
+          "visible": true,
+          "scale": 0.83
+        },
+        {
+          "visible": true,
+          "scale": 0.9
+        }
+      ],
+      "drawCalls": 35,
+      "triangles": 5894
+    },
+    "pageErrors": []
+  },
+  "limits": [
+    "Headless Chrome on this Windows host; physical phone, Safari and Firefox have not been tested.",
+    "No production form destination by user request. INP field percentile data is unavailable."
+  ],
+  "pageErrors": [],
+  "performance": {
+    "lcp": 232,
+    "cls": 0,
+    "transferBytes": 647032,
+    "resources": [
+      {
+        "url": "fonts/outfit.woff2",
+        "transfer": 32592,
+        "decoded": 32292
+      },
+      {
+        "url": "fonts/jakarta.woff2",
+        "transfer": 27648,
+        "decoded": 27348
+      },
+      {
+        "url": "css/style.css",
+        "transfer": 10358,
+        "decoded": 46359
+      },
+      {
+        "url": "vendor/gsap.min.js",
+        "transfer": 28861,
+        "decoded": 73357
+      },
+      {
+        "url": "js/main.js",
+        "transfer": 6513,
+        "decoded": 18086
+      },
+      {
+        "url": "vendor/ScrollTrigger.min.js",
+        "transfer": 18331,
+        "decoded": 44683
+      },
+      {
+        "url": "images/luma-logo-white-small.webp",
+        "transfer": 9406,
+        "decoded": 9106
+      },
+      {
+        "url": "images/sculpture-home.webp",
+        "transfer": 26040,
+        "decoded": 25740
+      },
+      {
+        "url": "images/sculpture-story.webp",
+        "transfer": 48346,
+        "decoded": 48046
+      },
+      {
+        "url": "images/luma-emblem.png",
+        "transfer": 8741,
+        "decoded": 8441
+      },
+      {
+        "url": "js/scenes.js",
+        "transfer": 6012,
+        "decoded": 16710
+      },
+      {
+        "url": "vendor/three.module.js",
+        "transfer": 130386,
+        "decoded": 658900
+      },
+      {
+        "url": "vendor/RoomEnvironment.js",
+        "transfer": 1993,
+        "decoded": 4974
+      },
+      {
+        "url": "vendor/three.core.js",
+        "transfer": 291805,
+        "decoded": 1474799
+      }
+    ]
+  },
+  "pass": true
+}

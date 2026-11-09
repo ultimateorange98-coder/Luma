@@ -1,0 +1,88 @@
+{
+  "chapter": {
+    "y": 971,
+    "h": 1750
+  },
+  "states": [
+    {
+      "scrollY": 871,
+      "container": "scene-shell home-sculpture",
+      "active": [
+        "true",
+        "false",
+        "false"
+      ],
+      "visible": true,
+      "scale": 1,
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "calls": 6
+    },
+    {
+      "scrollY": 1213,
+      "container": "story-mount is-live",
+      "active": [
+        "false",
+        "true",
+        "false"
+      ],
+      "visible": true,
+      "scale": 0.7315883997920136,
+      "position": [
+        -0.10736464008319457,
+        0.07157642672212972,
+        -0.1789410668053243
+      ],
+      "calls": 34
+    },
+    {
+      "scrollY": 1536,
+      "container": "story-mount is-live",
+      "active": [
+        "false",
+        "true",
+        "false"
+      ],
+      "visible": true,
+      "scale": 0.4764800793819075,
+      "position": [
+        -0.20940796824723698,
+        0.13960531216482466,
+        -0.34901328041206164
+      ],
+      "calls": 34
+    },
+    {
+      "scrollY": 1821,
+      "container": "story-mount is-live",
+      "active": [
+        "false",
+        "false",
+        "true"
+      ],
+      "visible": false,
+      "scale": 0.2512688534990367,
+      "position": [
+        -0.2994924586003853,
+        0.19966163906692355,
+        -0.49915409766730884
+      ],
+      "calls": 29
+    }
+  ],
+  "mobile": {
+    "active": [
+      "false",
+      "false",
+      "true"
+    ],
+    "visible": false,
+    "scale": 0.2607627664889408,
+    "parent": "story-mount is-live"
+  },
+  "reduced": "false",
+  "errors": []
+}

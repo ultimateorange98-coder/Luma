@@ -1,0 +1,48 @@
+{
+  "home": {
+    "overflow": false,
+    "control": [
+      {
+        "rect": {
+          "x": 1381.359375,
+          "y": 766,
+          "width": 81.828125,
+          "height": 28,
+          "top": 766,
+          "right": 1463.1875,
+          "bottom": 794,
+          "left": 1381.359375
+        },
+        "text": "Pause interaction"
+      }
+    ],
+    "scenes": [
+      {
+        "k": "home",
+        "triangles": 474,
+        "calls": 9
+      }
+    ]
+  },
+  "calendar": {
+    "annual": true,
+    "selected": "true"
+  },
+  "form": {
+    "errorVisible": true,
+    "focused": true,
+    "result": true,
+    "downloadLink": "blob:http://127.0.0.1:3080/8a915857-30bc-41de-a9fd-4e3af536ed5e"
+  },
+  "menu": {
+    "mainInert": true,
+    "focused": "Home",
+    "closed": true
+  },
+  "reduced": {
+    "canvas": 0,
+    "posterOpacity": "1",
+    "h1": "You build.We bring\n\nstructure."
+  },
+  "errors": []
+}
