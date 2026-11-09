@@ -637,9 +637,9 @@
   ],
   "pageErrors": [],
   "performance": {
-    "lcp": 232,
+    "lcp": 676,
     "cls": 0,
-    "transferBytes": 647032,
+    "transferBytes": 1724940,
     "resources": [
       {
         "url": "fonts/outfit.woff2",
@@ -653,8 +653,8 @@
       },
       {
         "url": "css/style.css",
-        "transfer": 10358,
-        "decoded": 46359
+        "transfer": 10390,
+        "decoded": 46494
       },
       {
         "url": "vendor/gsap.min.js",
@@ -662,14 +662,14 @@
         "decoded": 73357
       },
       {
-        "url": "js/main.js",
-        "transfer": 6513,
-        "decoded": 18086
-      },
-      {
         "url": "vendor/ScrollTrigger.min.js",
         "transfer": 18331,
         "decoded": 44683
+      },
+      {
+        "url": "js/main.js",
+        "transfer": 6312,
+        "decoded": 17210
       },
       {
         "url": "images/luma-logo-white-small.webp",
@@ -682,14 +682,19 @@
         "decoded": 25740
       },
       {
+        "url": "images/enterprise-operations-poster.webp",
+        "transfer": 99806,
+        "decoded": 99506
+      },
+      {
+        "url": "videos/enterprise-operations-web.mp4",
+        "transfer": 978271,
+        "decoded": 977971
+      },
+      {
         "url": "images/sculpture-story.webp",
         "transfer": 48346,
         "decoded": 48046
-      },
-      {
-        "url": "images/luma-emblem.png",
-        "transfer": 8741,
-        "decoded": 8441
       },
       {
         "url": "js/scenes.js",
@@ -705,6 +710,11 @@
         "url": "vendor/RoomEnvironment.js",
         "transfer": 1993,
         "decoded": 4974
+      },
+      {
+        "url": "images/luma-emblem.png",
+        "transfer": 8741,
+        "decoded": 8441
       },
       {
         "url": "vendor/three.core.js",
