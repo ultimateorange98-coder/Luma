@@ -2,7 +2,7 @@
 
 A nine-page business registration and managed compliance website for Cameroon. Original folded-L artwork, cinematic editorial scenes and a connected service story share a navy, porcelain and mineral material palette.
 
-## Run locally
+## Run locally 
 
 ```powershell
 cd C:\Projects\Luma
